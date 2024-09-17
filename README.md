@@ -6,6 +6,9 @@ Duration: August 25th to September 25th 2024
 Mentor: Neela Santhosh Kumar
 Overview of the project
 Project: To create a Python program that acts as a basic calculator.
+![Screenshot (332)](https://github.com/user-attachments/assets/15877f9c-b723-4d80-9819-eeabc5598769)
+
+
 Objective:
 The goal of this project is to create a simple command-line calculator using Python. The calculator will allow users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program will prompt the user to enter two numbers and select an operation, then display the result.
 
